@@ -3,6 +3,7 @@
 This is sample POC project on Mediator Pttern in ASP.NET Core Web API. MediatR Nuget package used to implement CQRS pattern in .NET application.
 CQRS stands for Command Query Responsibility Segregation.
 When working with CQRS, Command and Query operations are seprated for scalability and performance.
+
 ![Logo](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7yjkery8l4xjpbsct18s.png)
 
 
